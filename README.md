@@ -24,7 +24,7 @@
   
   
 
-![Restaurant Dashboard](https://s3.us-east-1.amazonaws.com/com.chloe.testaws/project-restaurant-pic1.png) 
+![Restaurant Dashboard](https://s3.us-east-1.amazonaws.com/com.chloe.testaws/project-restaurant-pic3.png) 
 
 
 
