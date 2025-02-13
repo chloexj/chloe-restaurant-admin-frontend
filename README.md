@@ -21,3 +21,12 @@
   - **Dashboard Analytics:** Visualized business data with charts
   - **Real-time Notifications:** WebSocket integration for order updates
   - **Responsive UI:** Optimized for desktop and tablet views
+  
+  
+
+![Restaurant Dashboard](https://s3.us-east-1.amazonaws.com/com.chloe.testaws/project-restaurant-pic1.png) 
+
+
+
+![Setmeal](https://s3.us-east-1.amazonaws.com/com.chloe.testaws/project-restaurant-pic2.png)
+

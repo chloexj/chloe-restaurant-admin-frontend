@@ -10,7 +10,6 @@
               style="width: 149px; height: 38px"
               alt=""
             />
-            <!-- <span class="title-label">苍穹外卖</span> -->
           </div>
           <el-form-item prop="username">
             <el-input
@@ -39,7 +38,7 @@
               style="width: 100%"
               @click.native.prevent="handleLogin"
             >
-              <span v-if="!loading">登录</span>
+              <span v-if="!loading">Log in</span>
               <span v-else>登录中...</span>
             </el-button>
           </el-form-item>
@@ -94,7 +93,7 @@ export default class extends Vue {
 
   // 登录
   private handleLogin() {
-    (this.$refs.loginForm as ElForm).validate(async (valid: boolean) => {
+    ;(this.$refs.loginForm as ElForm).validate(async (valid: boolean) => {
       if (valid) {
         this.loading = true
         await UserModule.Login(this.loginForm as any)
